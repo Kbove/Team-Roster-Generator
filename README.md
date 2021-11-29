@@ -1,5 +1,5 @@
 # Roster Generator
-    https://github.com/kbove/Roster Generator
+    https://github.com/kbove/Team-Roster-Generator
     
 ## Description
     This application utilizes Node and HTML to generate simple team roster cards by taking user input and injecting it into an html template, which can be created at will
