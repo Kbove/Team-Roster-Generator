@@ -10,6 +10,8 @@ This application utilizes Node and HTML to generate simple team roster cards by 
     
 * [User Story](#Usage)
 
+* [Screenshot](#Screenshot)
+
 * [Contributors](#Contributors)
     
 * [Tests](#Tests)
@@ -21,6 +23,9 @@ The following necessary dependencies must be installed to run the application: n
     
 ## User Story <a id="Usage"></a>
 Using technology, we are able to create a quick and easy solution to building out team roster ID's
+
+## Screenshot <a id="Screenshot"></a>
+![screenshot](https://user-images.githubusercontent.com/89953218/143966101-ff9744b5-6c1b-43d9-8c1c-365b53fdd431.JPG)
     
 ## Contributors <a id="Contributors"></a>
 Contributors: Me
